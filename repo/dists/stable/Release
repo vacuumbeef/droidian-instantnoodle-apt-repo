@@ -1,0 +1,17 @@
+Codename: stable
+Date: Sat, 20 Jun 2026 12:20:09 UTC
+Architectures: arm64
+Components: main
+Description: vacuumbeef/droidian-instantnoodle-apt-repo
+MD5Sum:
+ e6f910e3ef0312dd7b313561f29915f3 6075 main/binary-arm64/Packages
+ 9d205a431c847da95d360ebcacc8fb20 1333 main/binary-arm64/Packages.gz
+ e8a4ee50e9c8573868726e87dce2461b 92 main/binary-arm64/Release
+SHA1:
+ 26d0123d501d2618cc8ea6e94d9f722e49011699 6075 main/binary-arm64/Packages
+ 25b0793839d722f6e5a653ed2bf727328315f8de 1333 main/binary-arm64/Packages.gz
+ ea7d39fdb6eb2dbf44a4a5d3e72cb5c40adb87c2 92 main/binary-arm64/Release
+SHA256:
+ 1588ba655032e0858913c8a1d1a314ab2b7ac5e1853a23f29e5112f551985faf 6075 main/binary-arm64/Packages
+ 4b26eca661a4d4557631f05b9a89022bc177d53523689354d25e59d058c35e70 1333 main/binary-arm64/Packages.gz
+ feca0eae24bab72777615eec5f47482fa41446dde0e55b78b8d56c86cbbc14ea 92 main/binary-arm64/Release

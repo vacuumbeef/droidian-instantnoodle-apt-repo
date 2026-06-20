@@ -1,0 +1,36 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Codename: stable
+Date: Sat, 20 Jun 2026 12:20:09 UTC
+Architectures: arm64
+Components: main
+Description: vacuumbeef/droidian-instantnoodle-apt-repo
+MD5Sum:
+ e6f910e3ef0312dd7b313561f29915f3 6075 main/binary-arm64/Packages
+ 9d205a431c847da95d360ebcacc8fb20 1333 main/binary-arm64/Packages.gz
+ e8a4ee50e9c8573868726e87dce2461b 92 main/binary-arm64/Release
+SHA1:
+ 26d0123d501d2618cc8ea6e94d9f722e49011699 6075 main/binary-arm64/Packages
+ 25b0793839d722f6e5a653ed2bf727328315f8de 1333 main/binary-arm64/Packages.gz
+ ea7d39fdb6eb2dbf44a4a5d3e72cb5c40adb87c2 92 main/binary-arm64/Release
+SHA256:
+ 1588ba655032e0858913c8a1d1a314ab2b7ac5e1853a23f29e5112f551985faf 6075 main/binary-arm64/Packages
+ 4b26eca661a4d4557631f05b9a89022bc177d53523689354d25e59d058c35e70 1333 main/binary-arm64/Packages.gz
+ feca0eae24bab72777615eec5f47482fa41446dde0e55b78b8d56c86cbbc14ea 92 main/binary-arm64/Release
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCgAdFiEE2He/GeS0VuIgkwbDfJJONrO1fsoFAmo2hXoACgkQfJJONrO1
+fspIAA//TI6vCnsFdaDXhYqausOyTQ1xITPIgFtwiaimY1Kr/8h7R5tfzmNOmyGK
+0LSfz59AGQYYACCqireYLcfmHfkV1ibpfTY2wMwC5H+6PIkvilpZFQtp63WeZHdC
+cW9tl9Be1YZmHyDkyRhxzxWd1g+irPx3wICvaPO2vjFw4/Xnm1H0SzlpWZg+m6hX
+rdjG1vyYt/82Xm6s75ScCtbZJVfZJLKMGDEJtbAhCq56XY1l14K4hSUvAFqivABw
+IuUX9Vg+DPQXn8UOl3vn9gEy/5pAz2ioeN2CqLdms7Oj68hSIIisDb3s8SFjZGl7
+VrMIXu1huOFNO8fwmiaWXRwCgRgEwUDYM3MbI2mXRw9n58uyUZu1RJBCcEyio4ht
+NUILY5JIHrm16+JgkQBv+k0jfxTXEiOgJ2AJNBh9tWW0x+LzSh1zIYfJAHISV9Xg
+YfjyEv5fqEATZuwa8MpF05GpnyyC1RNNCRvUkKokq/MycqdHu4JtLq8gX+/4IRbx
+9id/2mq6SJkMF2xMt7ZfwkgnKpRB2EVNp+I6XwWb6yXfL4K4ff72JsLE2wX49KMZ
+syaw9psi1l3fdb2dUFldNa6lrQWcd7imU6+eE7zi8udMBti3oWBsnOKE1VkwQqqS
+oxMsLXe+34KgRvUYQbO+wc5nE0eA4XN/w6mVJi9BoXfSP3efS1Y=
+=MoFI
+-----END PGP SIGNATURE-----

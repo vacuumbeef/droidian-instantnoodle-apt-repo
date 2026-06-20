@@ -1,0 +1,7 @@
+Description: vacuumbeef/droidian-instantnoodle-apt-repo
+Codename: stable
+Architectures: arm64
+Components: main
+SignWith: D877BF19E4B456E2209306C37C924E36B3B57ECA
+
+
