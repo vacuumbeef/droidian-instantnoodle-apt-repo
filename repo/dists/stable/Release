@@ -1,17 +1,17 @@
 Codename: stable
-Date: Tue, 23 Jun 2026 14:40:36 UTC
+Date: Tue, 23 Jun 2026 15:25:02 UTC
 Architectures: arm64
 Components: main
 Description: vacuumbeef/droidian-instantnoodle-apt-repo
 MD5Sum:
- 2f43c729e23107a7b7c9881ac888c2e8 9089 main/binary-arm64/Packages
- 5e09935a16d337d54d6c1c7d0148ff12 2035 main/binary-arm64/Packages.gz
+ 834065faf0dd6bbf9038112c2d917c24 9089 main/binary-arm64/Packages
+ 384feac577a5212e4b7545cda860551a 2036 main/binary-arm64/Packages.gz
  e8a4ee50e9c8573868726e87dce2461b 92 main/binary-arm64/Release
 SHA1:
- 6853cec9b1cd34f1ca7b63f47a99c3261a69e4b2 9089 main/binary-arm64/Packages
- a55334011ff808d150e6286f41fedce78506a8ed 2035 main/binary-arm64/Packages.gz
+ a8c7a7f6142bfaa26f6521cd5edae337aa97396c 9089 main/binary-arm64/Packages
+ 220d1f80da0edcdd4c08c808708297a633c60033 2036 main/binary-arm64/Packages.gz
  ea7d39fdb6eb2dbf44a4a5d3e72cb5c40adb87c2 92 main/binary-arm64/Release
 SHA256:
- fe411f55b9bee9aea835d7b42d2f6e1a2f23f667eb5a43d486e48ed7d642d171 9089 main/binary-arm64/Packages
- 994af72ba964975e9b1c184b27ee05dffd822c2c772a9c073c6554148b1547ca 2035 main/binary-arm64/Packages.gz
+ 7b31445ee9d00b00978eaa9d9bae3e9bf6fc374f9638ed570ed1dab819f7e0c3 9089 main/binary-arm64/Packages
+ d7213d2b1ed7dd501533e0772c41f51b333349e55891d0aa11c9c7a3c1b76f58 2036 main/binary-arm64/Packages.gz
  feca0eae24bab72777615eec5f47482fa41446dde0e55b78b8d56c86cbbc14ea 92 main/binary-arm64/Release
