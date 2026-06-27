@@ -1,32 +1,32 @@
 Package: adaptation-oneplus-instantnoodle
-Version: 0.0.0+git20260624171238.6695f52.droidian
+Version: 0.0.0+git20260627104947.3eb0ce1.droidian
 Architecture: arm64
 Maintainer: caligaris <thelookouts@hotmail.com>
 Installed-Size: 7
-Depends: adaptation-hybris-api29-phone, adaptation-oneplus-instantnoodle-configs (= 0.0.0+git20260624171238.6695f52.droidian), droidian-quirks-firefox-gpu, libdroid-hal-lights
+Depends: adaptation-hybris-api29-phone, adaptation-oneplus-instantnoodle-configs (= 0.0.0+git20260627104947.3eb0ce1.droidian), droidian-quirks-firefox-gpu, libdroid-hal-lights
 Priority: optional
 Section: metapackages
-Filename: pool/main/a/adaptation-oneplus-instantnoodle/adaptation-oneplus-instantnoodle_0.0.0+git20260624171238.6695f52.droidian_arm64.deb
-Size: 1208
-SHA256: 194f18e216f378f3a55f58e4be34d803f005d730a1eacf9cb8073aec3fa5e246
-SHA1: d50c83b639aa904133c95da7d199b1a7a4104e8f
-MD5sum: 5f100a164a976265dddcfdf72d587471
+Filename: pool/main/a/adaptation-oneplus-instantnoodle/adaptation-oneplus-instantnoodle_0.0.0+git20260627104947.3eb0ce1.droidian_arm64.deb
+Size: 1220
+SHA256: 1385f26348249bf106123711b5c29334052a24cd5d11c38ff0a379fe5373f7a3
+SHA1: 4ffe21988c29fc90251efaddf63d021ab414d878
+MD5sum: 104eddda3feadcbcaf88b9f4c3b929ab
 Description: Community adaptation for oneplus-instantnoodle - metapackage
 
 Package: adaptation-oneplus-instantnoodle-configs
 Source: adaptation-oneplus-instantnoodle
-Version: 0.0.0+git20260624171238.6695f52.droidian
+Version: 0.0.0+git20260627104947.3eb0ce1.droidian
 Architecture: arm64
 Maintainer: caligaris <thelookouts@hotmail.com>
-Installed-Size: 97
+Installed-Size: 95
 Depends: dconf-gsettings-backend | gsettings-backend, init-system-helpers (>= 1.52)
 Priority: optional
 Section: metapackages
-Filename: pool/main/a/adaptation-oneplus-instantnoodle/adaptation-oneplus-instantnoodle-configs_0.0.0+git20260624171238.6695f52.droidian_arm64.deb
-Size: 11808
-SHA256: 3d38dd06898357de78df918c239d4931efdcea42cfccb372b3499149b7248151
-SHA1: b57010d4f11cea060203885cef73730dfdb94b23
-MD5sum: 45448fd63ffe69dabed587ab6ca24352
+Filename: pool/main/a/adaptation-oneplus-instantnoodle/adaptation-oneplus-instantnoodle-configs_0.0.0+git20260627104947.3eb0ce1.droidian_arm64.deb
+Size: 11604
+SHA256: 86144d7cf5500bab687965c46064ed4979884fd14b23dbe7ed008eb33c9fa726
+SHA1: 3a10a953517cf32f4863815f2e4b08810f570cf5
+MD5sum: 1644cec3018c870e8c022c5411537439
 Description: Community adaptation for oneplus-instantnoodle - adaptation configurations
 
 Package: adaptation-oneplus-oneplus8
