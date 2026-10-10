@@ -62,122 +62,122 @@ Description: Community adaptation for oneplus-oneplus8 - adaptation configuratio
 
 Package: linux-bootimage-4.19-81-oneplus-instantnoodle
 Source: linux-android-oneplus-instantnoodle
-Version: 0.0.0+git20260621190458.efcea18.lineage.17.1
+Version: 0.0.0+git20260621223229.deadab9.lineage.17.1
 Architecture: arm64
 Maintainer: Droidian porters <info@droidian.org>
 Installed-Size: 59689
 Pre-Depends: flash-bootimage (>= 4)
-Depends: linux-image-4.19-81-oneplus-instantnoodle (= 0.0.0+git20260621190458.efcea18.lineage.17.1)
+Depends: linux-image-4.19-81-oneplus-instantnoodle (= 0.0.0+git20260621223229.deadab9.lineage.17.1)
 Priority: optional
 Section: kernel
-Filename: pool/main/l/linux-android-oneplus-instantnoodle/linux-bootimage-4.19-81-oneplus-instantnoodle_0.0.0+git20260621190458.efcea18.lineage.17.1_arm64.deb
-Size: 59829892
-SHA256: 347f8d4efaf20156bf79fffb5101dc7e743be2a0b8ba4768bcca45ed34a5de67
-SHA1: 8fb2744fea0cbdedfa75ea1ea72bb3aeab893118
-MD5sum: dd3b5da77cd2f408dc08023ebd553844
+Filename: pool/main/l/linux-android-oneplus-instantnoodle/linux-bootimage-4.19-81-oneplus-instantnoodle_0.0.0+git20260621223229.deadab9.lineage.17.1_arm64.deb
+Size: 59824384
+SHA256: 6ece7f9305a6f0a61409074ee9810caaf8aa4a398134d024f4dc3a98756fb175
+SHA1: e2b6d7dfc62a81915448558eec8b1f24701f9e3f
+MD5sum: 18ffdd56d48fa36bc0b873df5a7a9c09
 Description: Linux kernel for OnePlus 8 - Android Boot Image
  This package contains the Linux kernel for the OnePlus 8 device.
  .
  Note: This package ships an Android Boot Image bundled with Halium's
  initramfs.
-X-Droidian-Vcs-Revision: efcea183e71b88a0e1d9787dcc209e481c758685
+X-Droidian-Vcs-Revision: deadab937783c1ffee57655a89951627083e72df
 X-Droidian-Vcs-Url: https://github.com/vacuumbeef/android_kernel_oneplus_sm8250
 
 Package: linux-bootimage-oneplus-instantnoodle
 Source: linux-android-oneplus-instantnoodle
-Version: 0.0.0+git20260621190458.efcea18.lineage.17.1
+Version: 0.0.0+git20260621223229.deadab9.lineage.17.1
 Architecture: arm64
 Maintainer: Droidian porters <info@droidian.org>
 Installed-Size: 7
-Depends: linux-bootimage-4.19-81-oneplus-instantnoodle (= 0.0.0+git20260621190458.efcea18.lineage.17.1)
+Depends: linux-bootimage-4.19-81-oneplus-instantnoodle (= 0.0.0+git20260621223229.deadab9.lineage.17.1)
 Priority: optional
 Section: kernel
-Filename: pool/main/l/linux-android-oneplus-instantnoodle/linux-bootimage-oneplus-instantnoodle_0.0.0+git20260621190458.efcea18.lineage.17.1_arm64.deb
+Filename: pool/main/l/linux-android-oneplus-instantnoodle/linux-bootimage-oneplus-instantnoodle_0.0.0+git20260621223229.deadab9.lineage.17.1_arm64.deb
 Size: 1352
-SHA256: 19c0d1f2debe325e7405456ce6bfd8565e56d3afa91380df52e6fb7a41a2be55
-SHA1: df1d5e353a83c7fb4d54108162151bae2df6a42b
-MD5sum: 48ff32f00fbf165cd93b08e8eee34f44
+SHA256: 6b1a6cccb2548f3c4dc2a665eae158699f8f4c0a560d42382c43e5c750bff9e4
+SHA1: 70a1543ad0651e3947467c9e9d24fc67a323b549
+MD5sum: 87c478fe90ef9544e49052ecdb4fec90
 Description: Linux kernel for OnePlus 8 - Android Boot Image  (latest)
  This package depends to the latest kernel bootimage available for the OnePlus 8.
-X-Droidian-Vcs-Revision: efcea183e71b88a0e1d9787dcc209e481c758685
+X-Droidian-Vcs-Revision: deadab937783c1ffee57655a89951627083e72df
 X-Droidian-Vcs-Url: https://github.com/vacuumbeef/android_kernel_oneplus_sm8250
 
 Package: linux-headers-4.19-81-oneplus-instantnoodle
 Source: linux-android-oneplus-instantnoodle
-Version: 0.0.0+git20260621190458.efcea18.lineage.17.1
+Version: 0.0.0+git20260621223229.deadab9.lineage.17.1
 Architecture: arm64
 Maintainer: Droidian porters <info@droidian.org>
 Installed-Size: 55069
-Depends: linux-image-4.19-81-oneplus-instantnoodle (= 0.0.0+git20260621190458.efcea18.lineage.17.1)
+Depends: linux-image-4.19-81-oneplus-instantnoodle (= 0.0.0+git20260621223229.deadab9.lineage.17.1)
 Priority: optional
 Section: kernel
-Filename: pool/main/l/linux-android-oneplus-instantnoodle/linux-headers-4.19-81-oneplus-instantnoodle_0.0.0+git20260621190458.efcea18.lineage.17.1_arm64.deb
-Size: 8639888
-SHA256: ea34b2eda6f7ae9bfcfe58edec8f27a4b14f705555e673aaee5e370c89e614aa
-SHA1: 99ac26f5d993a2a23d97186da8a9dddd490ef80c
-MD5sum: 8717b34e685a021c0af2b77406eff590
+Filename: pool/main/l/linux-android-oneplus-instantnoodle/linux-headers-4.19-81-oneplus-instantnoodle_0.0.0+git20260621223229.deadab9.lineage.17.1_arm64.deb
+Size: 8639952
+SHA256: 70ab9ef7af71fa1ca0569a17bf45a971f251d8720946f5c5f369b75c115f34ba
+SHA1: 849009a871b74943cb426f1937a917d01a61ef6b
+MD5sum: edc7ed895edf8cfe1dbb9583206942f0
 Description: Linux kernel for OnePlus 8 - Headers
  This package contains the Linux kernel headers for the OnePlus 8 device.
-X-Droidian-Vcs-Revision: efcea183e71b88a0e1d9787dcc209e481c758685
+X-Droidian-Vcs-Revision: deadab937783c1ffee57655a89951627083e72df
 X-Droidian-Vcs-Url: https://github.com/vacuumbeef/android_kernel_oneplus_sm8250
 
 Package: linux-headers-oneplus-instantnoodle
 Source: linux-android-oneplus-instantnoodle
-Version: 0.0.0+git20260621190458.efcea18.lineage.17.1
+Version: 0.0.0+git20260621223229.deadab9.lineage.17.1
 Architecture: arm64
 Maintainer: Droidian porters <info@droidian.org>
 Installed-Size: 7
-Depends: linux-headers-4.19-81-oneplus-instantnoodle (= 0.0.0+git20260621190458.efcea18.lineage.17.1)
+Depends: linux-headers-4.19-81-oneplus-instantnoodle (= 0.0.0+git20260621223229.deadab9.lineage.17.1)
 Priority: optional
 Section: kernel
-Filename: pool/main/l/linux-android-oneplus-instantnoodle/linux-headers-oneplus-instantnoodle_0.0.0+git20260621190458.efcea18.lineage.17.1_arm64.deb
-Size: 1344
-SHA256: 275dfff3c6ce038ec8e1382f8d8d821bcdaad8f45c20f259df536c3f85e6cce3
-SHA1: 94c980db30a3490524415274c55d5adbb6271cdc
-MD5sum: 4a996e0120e93f00d5a230cd0bc90f02
+Filename: pool/main/l/linux-android-oneplus-instantnoodle/linux-headers-oneplus-instantnoodle_0.0.0+git20260621223229.deadab9.lineage.17.1_arm64.deb
+Size: 1336
+SHA256: 498a45c5432afdc8c0488eebd45cb96a0021364690bec9b21de9eced8baf3c24
+SHA1: db469a48460c2a40c4fad9ad68c8619c7f57df54
+MD5sum: d1303d3d33e9180ed1dd4bb868cd8fd3
 Description: Linux kernel for OnePlus 8 - Headers (latest)
  This package depends to the latest kernel headers available for the OnePlus 8.
-X-Droidian-Vcs-Revision: efcea183e71b88a0e1d9787dcc209e481c758685
+X-Droidian-Vcs-Revision: deadab937783c1ffee57655a89951627083e72df
 X-Droidian-Vcs-Url: https://github.com/vacuumbeef/android_kernel_oneplus_sm8250
 
 Package: linux-image-4.19-81-oneplus-instantnoodle
 Source: linux-android-oneplus-instantnoodle
-Version: 0.0.0+git20260621190458.efcea18.lineage.17.1
+Version: 0.0.0+git20260621223229.deadab9.lineage.17.1
 Architecture: arm64
 Maintainer: Droidian porters <info@droidian.org>
-Installed-Size: 19978
+Installed-Size: 19976
 Priority: optional
 Section: kernel
-Filename: pool/main/l/linux-android-oneplus-instantnoodle/linux-image-4.19-81-oneplus-instantnoodle_0.0.0+git20260621190458.efcea18.lineage.17.1_arm64.deb
-Size: 14226692
-SHA256: 3199d964f04d3baea114a9ea55447cd24ca8c4ebb71d3b0826a6f5518e602623
-SHA1: 97fb3513901569959fc49d6c9c651be161c0461f
-MD5sum: 1a09f4d93611f4d9ee3f80ec470b2f92
+Filename: pool/main/l/linux-android-oneplus-instantnoodle/linux-image-4.19-81-oneplus-instantnoodle_0.0.0+git20260621223229.deadab9.lineage.17.1_arm64.deb
+Size: 14224668
+SHA256: bb9583885730bad2ac4221c3592a8db27b2fbaac43d6ce8284f3b5bd29b5cb74
+SHA1: c1848e79d063c3a542abef3f07dcdb55445c80d6
+MD5sum: 89dc32064f3b9555dc350c239796a24f
 Description: Linux kernel for OnePlus 8
  This package contains the Linux kernel for the OnePlus 8 device.
  .
  Note: This package only ships the kernel image and modules, you should probably
  look at the linux-bootimage-4.19-81-oneplus-instantnoodle package for a bootimage suitable
  for Android boot loaders.
-X-Droidian-Vcs-Revision: efcea183e71b88a0e1d9787dcc209e481c758685
+X-Droidian-Vcs-Revision: deadab937783c1ffee57655a89951627083e72df
 X-Droidian-Vcs-Url: https://github.com/vacuumbeef/android_kernel_oneplus_sm8250
 
 Package: linux-image-oneplus-instantnoodle
 Source: linux-android-oneplus-instantnoodle
-Version: 0.0.0+git20260621190458.efcea18.lineage.17.1
+Version: 0.0.0+git20260621223229.deadab9.lineage.17.1
 Architecture: arm64
 Maintainer: Droidian porters <info@droidian.org>
 Installed-Size: 7
-Depends: linux-image-4.19-81-oneplus-instantnoodle (= 0.0.0+git20260621190458.efcea18.lineage.17.1)
+Depends: linux-image-4.19-81-oneplus-instantnoodle (= 0.0.0+git20260621223229.deadab9.lineage.17.1)
 Priority: optional
 Section: kernel
-Filename: pool/main/l/linux-android-oneplus-instantnoodle/linux-image-oneplus-instantnoodle_0.0.0+git20260621190458.efcea18.lineage.17.1_arm64.deb
+Filename: pool/main/l/linux-android-oneplus-instantnoodle/linux-image-oneplus-instantnoodle_0.0.0+git20260621223229.deadab9.lineage.17.1_arm64.deb
 Size: 1336
-SHA256: 22b109567ef84f77a1f84ccf9934499bb3832d8b2815eaf05aebe0202bc5a457
-SHA1: bd011205dc33362edad314f772febc5d5d9732c9
-MD5sum: 798825fc13c2046a0e98a118cee7c22e
+SHA256: 8c25eb8449bb94c195da0521b53f71134dd40693cc2630aa9893011b217f5958
+SHA1: 5baaa216abc9e66e6faa05c8295b000885c3a76f
+MD5sum: 1654002b06de2f96260e51f0216cf56a
 Description: Linux kernel for OnePlus 8 (latest)
  This package depends to the latest kernel image available for the OnePlus 8.
-X-Droidian-Vcs-Revision: efcea183e71b88a0e1d9787dcc209e481c758685
+X-Droidian-Vcs-Revision: deadab937783c1ffee57655a89951627083e72df
 X-Droidian-Vcs-Url: https://github.com/vacuumbeef/android_kernel_oneplus_sm8250
 
